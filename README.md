@@ -87,7 +87,7 @@ Applied color coding for better insights (Delay vs On-Time, Gender split, etc.)
 
 (Add your image here)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](![Dashboard](images/Emergency%20Room%20Analysis.png)/dashboard.png)
 💡 Conclusion:
 This dashboard helps in understanding hospital emergency room performance by transforming raw data into meaningful insights. 
 It supports better decision-making in terms of patient management, operational efficiency, and healthcare service improvement.
