@@ -121,51 +121,99 @@ Helps in identifying high-risk age segments
 
 
 🦴 Orthopedics: 59
+
+
 ❤️ Cardiology: 15
+
+
 🧘 Physiotherapy: 14
+
+
 Other departments have lower referrals
 
 
+
+
 🛠️ Tools & Techniques:
+
+
 📊 Microsoft Excel
+
+
 Interactive dashboard design using Pivot Tables, Charts, and Slicers
 KPI cards for key metrics visualization 
 
 🧹 Power Query (Data Cleaning & Transformation)
+
+
 Removed duplicates and handled missing values
 Standardized data formats (dates, text, numeric fields)
 Data reshaping for better analysis
 
 🧠 Power Pivot (Data Modeling & DAX)
+
+
 Created relationships between multiple tables
 Built a separate Date Table for time-based analysis
 Implemented Date Hierarchy (Year → Month → Day) for dynamic filtering
 Used DAX formulas for calculated columns and measures
 Performed Age Grouping using DAX for demographic segmentation
 
+
+
 🔗 Data Modeling Techniques:
+
+
 Connected fact and dimension tables
 Enabled efficient cross-filtering across visuals
 Improved performance and scalability of the dashboard
 
+
+
 📈 Data Visualization:
+
+
 Designed clean and user-friendly layout
+
+
 Used bar charts, pie charts, and KPI indicators
+
+
 Applied color coding for better insights (Delay vs On-Time, Gender split, etc.)
+
+
 
 (Add your image here)
 
 ![Dashboard](![Dashboard](images/Emergency%20Room%20Analysis.png)/dashboard.png)
 💡 Conclusion:
+
+
 This dashboard helps in understanding hospital emergency room performance by transforming raw data into meaningful insights. 
+
+
 It supports better decision-making in terms of patient management, operational efficiency, and healthcare service improvement.
 
+
+
 🔥 Skills Demonstrated:
+
+
 Data Analysis
+
+
 Data Visualization
+
+
 Dashboard Design
+
+
 Business Intelligence
+
+
 Problem Solving
+
+
 
 
 ⭐ If you like this project give star and feedback .
