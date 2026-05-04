@@ -182,9 +182,8 @@ Applied color coding for better insights (Delay vs On-Time, Gender split, etc.)
 
 
 
-(Add your image here)
 
-![Dashboard](![Dashboard](images/Emergency%20Room%20Analysis.png)/dashboard.png)
+![Dashboard](dashboard.png)
 
 
 **💡Conclusion:**
