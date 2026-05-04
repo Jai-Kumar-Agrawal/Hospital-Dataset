@@ -1,13 +1,17 @@
 🏥 Hospital Emergency Room Dashboard
 
-📌 Project Overview:
+
+
+📌 **Project Overview:**
 This project presents an interactive Hospital Emergency Room Dashboard designed to analyze patient flow,
 operational efficiency, and healthcare performance metrics. The dashboard provides a clear view of key indicators such as patient volume, 
 wait time, satisfaction score, and department referrals.
 
 
 
-🎯 Objectives:
+
+
+🎯 **Objectives:**
 📊 Monitor patient trends on a monthly basis
 ⏳ Analyze average wait time for better service efficiency
 ⭐ Evaluate patient satisfaction score
@@ -16,7 +20,9 @@ wait time, satisfaction score, and department referrals.
 🔍 Identify department-wise referrals
 
 
-📈 Key Metrics (KPIs):
+
+
+📈 **Key Metrics (KPIs):**
 👤 Total Patients: 506
 ⏳ Average Wait Time: 35.88 minutes
 ⭐ Patient Satisfaction Score: 5.33 / 10
