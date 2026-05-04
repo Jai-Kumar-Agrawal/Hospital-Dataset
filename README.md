@@ -13,6 +13,8 @@ wait time, satisfaction score, and department referrals.
 
 🎯 **Objectives:**
 📊 Monitor patient trends on a monthly basis
+
+
 ⏳ Analyze average wait time for better service efficiency
 ⭐ Evaluate patient satisfaction score
 🏥 Track admission vs non-admission rates
