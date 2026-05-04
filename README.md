@@ -107,7 +107,7 @@ Helps in identifying high-risk age segments
 
 
 
-**🏨 6.Department Referral Analysis:**
+**🏨 6. Department Referral Analysis:**
 
 
 👉 This helps identify which departments are most utilized
