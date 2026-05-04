@@ -70,7 +70,7 @@ Allows dynamic analysis of patient data across different months
 Helps evaluate hospital capacity and patient handling
 
 
-⏱️ 3. Patient Attend Status:
+⏱️ **3. Patient Attend Status:**
 
 
 🟦 On-Time: 62%
@@ -80,8 +80,7 @@ Helps evaluate hospital capacity and patient handling
 Indicates operational efficiency and service delays
 
 
-👨‍⚕️ 4. Gender Distribution:
-
+**👨‍⚕️ 4. Gender Distribution:**
 
 👩 Female: 46%
 
@@ -94,7 +93,7 @@ Useful for demographic-based healthcare planning
 
 
 
-🎂 5. Age Group Analysis:
+🎂 **5. Age Group Analysis:**
 
 
 Highest patients observed in 60–69 age group (121 patients)
@@ -108,7 +107,7 @@ Helps in identifying high-risk age segments
 
 
 
-🏨 6. Department Referral Analysis:
+**🏨 6.Department Referral Analysis:**
 
 
 👉 This helps identify which departments are most utilized
@@ -134,7 +133,7 @@ Other departments have lower referrals
 
 
 
-🛠️ Tools & Techniques:
+🛠️ **Tools & Techniques:**
 
 
 📊 Microsoft Excel
@@ -161,7 +160,7 @@ Performed Age Grouping using DAX for demographic segmentation
 
 
 
-🔗 Data Modeling Techniques:
+**🔗 Data Modeling Techniques:**
 
 
 Connected fact and dimension tables
@@ -170,7 +169,7 @@ Improved performance and scalability of the dashboard
 
 
 
-📈 Data Visualization:
+📈 **Data Visualization:**
 
 
 Designed clean and user-friendly layout
@@ -186,7 +185,9 @@ Applied color coding for better insights (Delay vs On-Time, Gender split, etc.)
 (Add your image here)
 
 ![Dashboard](![Dashboard](images/Emergency%20Room%20Analysis.png)/dashboard.png)
-💡 Conclusion:
+
+
+**💡Conclusion:**
 
 
 This dashboard helps in understanding hospital emergency room performance by transforming raw data into meaningful insights. 
@@ -196,7 +197,7 @@ It supports better decision-making in terms of patient management, operational e
 
 
 
-🔥 Skills Demonstrated:
+**🔥 Skills Demonstrated:**
 
 
 Data Analysis
